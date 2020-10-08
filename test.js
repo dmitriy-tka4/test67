@@ -1,1 +1,1 @@
-Hello git
+let str = 'Hello git';
